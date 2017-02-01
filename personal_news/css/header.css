@@ -1,0 +1,14 @@
+body
+{
+background:url(../images/news_background.jpg);
+
+}
+.main
+{
+	width:100%;
+	height:16%;
+}
+.main_submenu
+{
+float:left;
+}
